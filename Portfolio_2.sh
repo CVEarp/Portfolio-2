@@ -4,7 +4,7 @@
 
 echo "Running Portfolio 2 Assignment - LEO1"
 echo " "
-./jumper.sh &
+./jumper.sh > DHCP_state &
 echo "DHCP server programm started"
 python text_scroll_publisher.py &
 echo "Text scroll is running"
