@@ -37,4 +37,4 @@ do
 	fi
 	sleep 2
 done
-
+exit 0

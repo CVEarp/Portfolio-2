@@ -10,3 +10,4 @@ python text_scroll_publisher.py &
 echo "Text scroll is running"
 python joystick_events.py &
 echo "Joystick-event reading  program is running"
+exit 0
