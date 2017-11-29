@@ -2,6 +2,7 @@
 
 #@author: Carlos Viescas, Bartolome Jimenez
 
+
 echo "Running Portfolio 2 Assignment - LEO1"
 echo " "
 ./jumper.sh > DHCP_state &
