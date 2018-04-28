@@ -1,5 +1,7 @@
-jumper.sh ---> Hace funcionar el DHCP en funcion del valor del pin 18 (GPIO 24)
-
-Portfolio2.sh ---> Para iniciar todos los programas del Portfolio a la vez y dejarlos en background
+# Portfolio Asignment 2 - LEO1
 
 
+- jumper.sh: Starts/Stops the DHCP server dependin on 18th pin's value (GPIO 24).
+- Portfolio2.sh: Runs all the programs at once and puts them in background.
+- DHCP\_state: Console output.
+- `text_scroll_publisher.py` and `joystick_events.py` modified from templates given at lectures. 
